@@ -3,7 +3,8 @@ public class Main {
 
  public static void main(String args[])	{
 	 
-	 System.out.printf("message:+ %s%n"," Conflict Created with feature beanch");
+	 System.out.printf("message:+ %s%n"," conflict solved");
+
  }
 	
 }
