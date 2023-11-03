@@ -1,3 +1,2 @@
 # Exercise1
-Second Changed in GitExerisce
-
+second Changed in rebased in Exercise1
