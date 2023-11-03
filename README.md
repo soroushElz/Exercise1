@@ -1,2 +1,2 @@
 # Exercise1
-Coflict 
+Changed cloned
