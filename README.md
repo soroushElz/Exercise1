@@ -1,2 +1,2 @@
 # Exercise1
-second Change in GitExerisce
+Coflict Resolved
